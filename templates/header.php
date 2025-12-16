@@ -257,6 +257,12 @@
                 <p>Transaksi</p>
               </a>
             </li>
+            <li class="nav-item">
+              <a href="laporan.php" class="nav-link">
+                <i class="nav-icon bi bi-pencil-square"></i>
+                <p>Laporan</p>
+              </a>
+            </li>
           </ul>
           <!--end::Sidebar Menu-->
         </nav>
